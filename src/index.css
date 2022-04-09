@@ -1,0 +1,18 @@
+h1 {
+  margin-top: 0;
+  color: transparent;
+  background: linear-gradient(
+    to right,
+    rgb(28, 75, 83) 0%,
+    rgb(71, 155, 148) 100%
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  text-align: center;
+  text-transform: uppercase;
+}
+img {
+  display: block;
+  max-width: 100%;
+  margin: auto;
+}
